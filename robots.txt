@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mariogustavinhu09-wq.github.io/serralheria-Brasil-Fer/sitemap.xml
